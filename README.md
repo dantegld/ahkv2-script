@@ -18,7 +18,8 @@ Use ```RCtrl + M``` for ```Backspace```.
 
 ### Win + T toggles touchscreen
 
->Only tested on Asus touchscreen.  
+>Only tested on Asus touchscreen.
+
 Disables default ```Win + T``` functionality (Navigating taskbar icons).
 
 ### Win + B opens default browser
