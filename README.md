@@ -9,7 +9,7 @@ Disables the key and rebinds it to ```RCtrl```
 
 ### Vim-Style Navigation
 
-> Commented out right now since its not finished.
+> Commented out right now since it's not finished.
 
 Use ```RCtrl + HJKL``` for arrow keys.  
 Use ```RCtrl + UI``` for ```Home``` and ```End```.  
