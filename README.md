@@ -1,4 +1,7 @@
 # AHK V2 script
+
+>This script requires admin permissions to change your touchscreen status
+
 ## Features
 
 ### Disable Microsoft Copilot key
@@ -23,8 +26,11 @@ Use ```RCtrl + M``` for ```Backspace```.
 Disables default ```Win + T``` functionality (Navigating taskbar icons).
 
 ### Win + B opens default browser
-Disables default ```Win+ B``` functionality (Focussing the notification area)
+Disable default ```Win+ B``` functionality (Focussing the notification area)
 
-### Win + W closes focused application
+### Win + A closes focused application
+
+Disables default ```Win + A``` functionality (Opening action centre)
 Just runs ```WinClose("window")``` (```alt+f4```)
+
 

@@ -56,8 +56,8 @@ if !A_IsAdmin {
     SetTimer(() => ToolTip(), -2000)
 }
 
-; --- Close front application (Win+W) ---
-#A:: {
+; --- Close front application (Win+A) ---
+#a:: {
     if WinExist("A") {
         WinClose("A")
     }
