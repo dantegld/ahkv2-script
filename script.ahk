@@ -57,7 +57,7 @@ if !A_IsAdmin {
 }
 
 ; --- Close front application (Win+W) ---
-#w:: {
+#A:: {
     if WinExist("A") {
         WinClose("A")
     }
